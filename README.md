@@ -1,4 +1,5 @@
-# TechnoEdge-Sales-Analysis-Report
+# TechnoEdge- Sales Analysis Report
+
 https://app.powerbi.com/reportEmbed?reportId=ed392a0d-e785-40cd-9c2a-6c188c336915&autoAuth=true&ctid=0ee9b5f9-52b3-4351-8198-c4804cd66b68
 
 ## Overview
@@ -28,6 +29,7 @@ https://app.powerbi.com/reportEmbed?reportId=ed392a0d-e785-40cd-9c2a-6c188c33691
   (g) Used 'Card (new)' to showcase 'Sum of Profit', 'Sum of Quantity' & 'Sum of Discount'.
 
   (h) Created a 'City' based 'Slicer'.
+  
 Snapshot of the report :
 
 ![Screenshot (66)](https://github.com/user-attachments/assets/7760eaf5-e5f8-48c8-9f7a-c9abaeff4ebe)
